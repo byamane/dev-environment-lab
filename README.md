@@ -1,6 +1,7 @@
-![](https://imgur.com/a/4WmJIjZ)
+<img src=https://i.imgur.com/NPbrmhk.png>
 
 # dev-environment-lab
+
 ## OS
 
 linux-gnu
